@@ -6,7 +6,6 @@ function sum(numeros) {
     return suma;
 }
 
-
 // escribe la función sum acá
 
 console.log(sum([1, 2, 3]));// 6
